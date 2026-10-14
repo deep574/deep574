@@ -1,16 +1,129 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**deep574/deep574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Header Dynamic SVG Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=220&section=header&text=GNANADEEP&fontSize=50&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Network%20Security&descFontSize=20&descAlignY=62&fontColor=00FFCC&stroke=000000" width="100%" alt="Header Banner" />
 
-Here are some ideas to get you started:
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/deep574">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+There!+%F0%9F%91%8B+I'm+Gnanadeep;Cybersecurity+%26+Network+Security+Specialist;SOC+%2F+Blue+Team+%26+Threat+Detection;Python+%26+Security+Automation+Developer" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <b>Aspiring Cybersecurity Professional & SOC Analyst</b> based in Hyderabad, India. Dedicated to threat intelligence, SIEM log analysis, and fortifying system vulnerabilities. Passionate about defensive security, ethical hacking, and automating security workflows.
+  </p>
+
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="mailto:gnanadeep.cheekati08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/gnanadeep-cheekati-a6050332b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-CC292B?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+    <a href="https://github.com/deep574"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
+
+---
+
+### ⚡ Present Status
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🛡️ <b>Defending & Monitoring:</b> Practicing incident detection, SIEM log analysis, and threat hunting with <b>Splunk</b> & <b>Wazuh</b>.</li>
+        <li>🌐 <b>Network Analysis:</b> Deep packet inspection and protocol decoding using <b>Wireshark</b> & <b>TCP/IP</b> suites.</li>
+        <li>🔐 <b>Web Security:</b> Analyzing and exploiting vulnerabilities against the <b>OWASP Top 10</b> (XSS, SQLi, IDOR, CSRF).</li>
+        <li>🐍 <b>Security Automation:</b> Crafting custom penetration testing and recon scripts in <b>Python</b> & <b>Bash</b>.</li>
+        <li>☁️ <b>Next Frontiers:</b> Deepening knowledge in <b>Cloud Security (AWS/Azure)</b> and <b>IoT / OT (ICS/SCADA)</b> defenses.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/Y408H3mXUHN0Ec780j/giphy.gif" width="220" alt="Cyber Security Hacker Animation" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Knowledge & Skills
+
+<div align="left">
+
+#### 🛡️ Cybersecurity & SOC
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-00FFCC?style=flat-square&logo=hackthebox&logoColor=black" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Network%20Security-1F425F?style=flat-square&logo=wireshark&logoColor=white" alt="Network Security" />
+  <img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-002D62?style=flat-square&logo=shield&logoColor=white" alt="SOC" />
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-D9381E?style=flat-square&logo=virustotal&logoColor=white" alt="Threat Intel" />
+  <img src="https://img.shields.io/badge/Incident%20Response-FF6F00?style=flat-square&logo=fire&logoColor=white" alt="Incident Response" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C0392B?style=flat-square&logo=target&logoColor=white" alt="MITRE" />
+  <img src="https://img.shields.io/badge/WAF%20%26%20Firewalls-4B0082?style=flat-square&logo=fortinet&logoColor=white" alt="WAF" />
+</p>
+
+#### 🧰 Security & Analysis Tools
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00FF00" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-002B49?style=flat-square&logo=freebsd&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wazuh-0072C6?style=flat-square&logo=securityscorecard&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/VirusTotal-3949AB?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" />
+  <img src="https://img.shields.io/badge/Tcpdump-24292E?style=flat-square&logo=terminal&logoColor=white" alt="Tcpdump" />
+</p>
+
+#### 💻 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20PL%20SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### ⚙️ OS & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows%20Security-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/TCP%2FIP%20%26%20DNS-34495E?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OT%2FICS%20Security-E67E22?style=flat-square&logo=target&logoColor=white" alt="OT/ICS" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deep574&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="Gnanadeep's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep574&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=deep574&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- 3D Contribution Trophy Header -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=deep574&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ⚡ Cyberpunk & SOC Analyst Aesthetics by Gnanadeep</sub>
+</div>
